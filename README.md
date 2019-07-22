@@ -5,25 +5,33 @@ Q-Learning based maze solver written from scratch using numpy, matplotlib (for v
 7 mazes are available:
 
 * 8x8
-  <img src="mazes/maze1.png"  width=256px>
+  
+  <img src="mazes_preview/maze1.png"  width=256px>
 
 * 10x10
-  <img src="mazes/maze2.png" width=256>
+  
+  <img src="mazes_preview/maze2.png" width=256>
 
 * 12x12
-  <img src="mazes/maze3.png" width="256">
+  
+  <img src="mazes_preview/maze3.png" width="256">
 
 * 14x14
-  <img src="mazes/maze4.png" width=256>
+  
+  <img src="mazes_preview/maze4.png" width=256>
 
 * 16x16
-  <img src="mazes/maze5.png" width=256>
+  
+  <img src="mazes_preview/maze5.png" width=256>
 
 * 32x32
-  <img src="mazes/maze6.png" width=256>
+  
+  <img src="mazes_preview/maze6.png" width=256>
 
 * 64x64
-  <img src="mazes/maze7.png" width=256>
+  
+  <img src="mazes_preview/maze7.png" width=256>
+
 
 If you want to try different mazes, you can pass them as parameter to Agent initializer
 
